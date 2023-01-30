@@ -1,0 +1,449 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-f4870d4db37c3f9b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-257d7cb29d8f5384"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-90f9cbda87176f31"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e1a01c7b82a8eb40"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-da2796b5940c6a84"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c153730c01a7ca1e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-196a7956b1057e50"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d7f844ab52969587"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-abb5ba3eed57d4a5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7f3ec8b721abea24"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-60ebb974a89a0b61"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-36eb6de3abb1370c"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-e7d5434be6fc4d8c",
+    "label": "Hidden test cell: Exercise 1 [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f03dc28d90110ee5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-40cbabc78982678e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a52ca1882d4b9f04"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-74568497cbbf083d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b570fc9502651a76"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e9d2111721a5bdef"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2dfcd9d5ad851225"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a82d3243fbe2adb1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-fb6184c085496345"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-dce6e8614d6df030",
+    "label": "Hidden test cell: Exercise 2 [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-227b69c003100c96"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8e84bea1b9889663"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4a7e7c22b12802b0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8e064ea3a1cfa09a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-41cd07277d5dea42"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-949b222e6eb63536"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-34cc84a0935efa7c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-fa5f8f02985b9fed"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1b5198b93468915f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5e88c7c406d39eb8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5398dc05defbac3d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e803827fe9dc797f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c207f05b572a921a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dd6389b73e1bc2bf"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0989fdaf36a611eb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-12c33c41deb752ec"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9df4cc8812967a5d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-64011693b84085cb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-257042eff45a5707"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ee8b7987c27c576f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e49660d3c84a2aac"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-61fdd22d53d0b5d1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d54f03eb36a96626"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8eb7d3e56cc78653"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a94c30635a37cc6d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0f5d90a026087fb9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7741cea8dc72d4b8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4abf7e7e3b056cd7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-19c54007d2ddfc41"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8a02f4e3eac6fd51"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5a8ae2fb8d82ab7e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f81f235efa90eca0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0faf1fd58219c7e9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a080fd0f87e22b8a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-53a15b21d8558079"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6b13a0a2a7a9c129"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1e74ab873f1a88a1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f26df6ee2b79810b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d90b9985841fc299"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c1502d4f42300d6b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-95ea7eceb45ad469"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-57da746e1c0cc087"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a8e255cc57abffda"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dff3edb2eebb505e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-88002262ef16d7ed"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ce356d88ed7b1ad7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-78f73c8858f130d7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4a9f2940f759198c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-80fad88fa7b9f0a0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a8e2eb4981ff79a7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d8c755a0fb31a9d9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-aac3f53cbc62c2c3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2995ad1b37e953da"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0f34729fd329f304"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-59f135adc3c25e3a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-13711ffd6f6dac29"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a7c6d33296549ef1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0214ba3d390009bb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8b11dd32d5c94d7f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ff3ac9e92f08d6c4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-93c15dec5e3b0a50"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6da0112258e849c1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-74a2905a08d44887"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-88137e81586755b5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f1fa84e603db7295"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-76899b402850538d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4dd4530f03cf96c5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bf316b955405e6df"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bcd431efe5ae9156"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0a7933dda0fd9341"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9e4a24ee9cd3568d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-24d2115ed95ebb12"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-63a284a8da9fc441"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-2856eacbec25c451",
+    "label": "Hidden test cell: Build the Model [30 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-885bcf7a43a6a0ca"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7643f7fb214237b9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c64c9af2fea16edc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f0a1fb4c37dc0136"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-576bb97492aece63"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-657d74b9707831fe",
+    "label": "Hidden test cell: Losses in PyTorch [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-841b6edaf5f415de"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-5d7a20ac55509d77",
+    "label": "Hidden test cell: Optimizer in PyTorch [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-5b88cc469821dbe6"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8970a0bdbd7b14bb",
+    "label": "Hidden test cell: Evaluate [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3f7737daea843131"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0a6209d710abfccb",
+    "label": "Hidden test cell: Training [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-caeda9a9dfcb7d80"
+  }
+]
